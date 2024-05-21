@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@mui/styles": "^5.15.13",
+    "bcryptjs": "^2.4.3"
+  }
+}
